@@ -10,3 +10,5 @@ El siguiente paso es instalar las Tools
 El último paso es instalar el Design
 > dotnet add package Microsoft.EntityFrameworkCore.Design
 
+Ahora pasamos a instalar Swagger:
+> dotnet add package Swashbuckle.AspNetCore --version 6.5.0
