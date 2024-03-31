@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\unisys.jjramos\\source\\repos_jjrm1996\\PizzaStoreEntity\\PizzaStoreEntity\\PizzaStoreEntity.csproj": {}
+    "C:\\Users\\unisys.jjramos\\source\\repos_jjrm1996\\PizzaStoreEntity\\PizzaStoreEntity\\PizzaStoreEntity.csproj": {}
   },
   "projects": {
-    "c:\\Users\\unisys.jjramos\\source\\repos_jjrm1996\\PizzaStoreEntity\\PizzaStoreEntity\\PizzaStoreEntity.csproj": {
+    "C:\\Users\\unisys.jjramos\\source\\repos_jjrm1996\\PizzaStoreEntity\\PizzaStoreEntity\\PizzaStoreEntity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\unisys.jjramos\\source\\repos_jjrm1996\\PizzaStoreEntity\\PizzaStoreEntity\\PizzaStoreEntity.csproj",
+        "projectUniqueName": "C:\\Users\\unisys.jjramos\\source\\repos_jjrm1996\\PizzaStoreEntity\\PizzaStoreEntity\\PizzaStoreEntity.csproj",
         "projectName": "PizzaStoreEntity",
-        "projectPath": "c:\\Users\\unisys.jjramos\\source\\repos_jjrm1996\\PizzaStoreEntity\\PizzaStoreEntity\\PizzaStoreEntity.csproj",
+        "projectPath": "C:\\Users\\unisys.jjramos\\source\\repos_jjrm1996\\PizzaStoreEntity\\PizzaStoreEntity\\PizzaStoreEntity.csproj",
         "packagesPath": "C:\\Users\\unisys.jjramos\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\unisys.jjramos\\source\\repos_jjrm1996\\PizzaStoreEntity\\PizzaStoreEntity\\obj\\",
+        "outputPath": "C:\\Users\\unisys.jjramos\\source\\repos_jjrm1996\\PizzaStoreEntity\\PizzaStoreEntity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\unisys.jjramos\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,6 +58,10 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
