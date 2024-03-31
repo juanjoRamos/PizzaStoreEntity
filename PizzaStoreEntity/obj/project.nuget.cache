@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PCsrlxet162DoKYdEKdbSJAFUo5LADIJ6Z8Vgmltg2go2iAPhKU9c2CtjyoDbMBchiCh9usVSku2cvsQsegmDQ==",
+  "dgSpecHash": "aEbooQn2Hr1IazRSP0O2Ix8RMIzhI1ggcx8T7OytCz6inkbNKq1a7b+hYoZPkCAcFrcmBs6Z7rx2H8cwi53BAw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\unisys.jjramos\\source\\repos_jjrm1996\\PizzaStoreEntity\\PizzaStoreEntity\\PizzaStoreEntity.csproj",
+  "projectFilePath": "c:\\Users\\unisys.jjramos\\source\\repos_jjrm1996\\PizzaStoreEntity\\PizzaStoreEntity\\PizzaStoreEntity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\unisys.jjramos\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\unisys.jjramos\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
@@ -20,6 +20,7 @@
     "C:\\Users\\unisys.jjramos\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.3\\microsoft.entityframeworkcore.abstractions.8.0.3.nupkg.sha512",
     "C:\\Users\\unisys.jjramos\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.3\\microsoft.entityframeworkcore.analyzers.8.0.3.nupkg.sha512",
     "C:\\Users\\unisys.jjramos\\.nuget\\packages\\microsoft.entityframeworkcore.design\\8.0.3\\microsoft.entityframeworkcore.design.8.0.3.nupkg.sha512",
+    "C:\\Users\\unisys.jjramos\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\8.0.0\\microsoft.entityframeworkcore.inmemory.8.0.0.nupkg.sha512",
     "C:\\Users\\unisys.jjramos\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\8.0.3\\microsoft.entityframeworkcore.relational.8.0.3.nupkg.sha512",
     "C:\\Users\\unisys.jjramos\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\8.0.3\\microsoft.entityframeworkcore.sqlserver.8.0.3.nupkg.sha512",
     "C:\\Users\\unisys.jjramos\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
