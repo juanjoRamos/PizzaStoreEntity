@@ -17,3 +17,5 @@ Lo que vamos a hacer ahora es en lugar de crear una base de datos con el mismo E
 Para ello vamos a utilizar:
 > dotnet add package Microsoft.EntityFrameworkCore.InMemory --version 8.0
 
+Ultimo paso: 
+Creacion de endpoints, crud para poder trabajar con las pizzas. Tambien se ha hecho que entity use la memoria del equipo mientras este programa esté depurando.
